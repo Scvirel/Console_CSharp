@@ -1,0 +1,6 @@
+D:\GRANDMA\Task1\bin\Debug\Task1.exe.config
+D:\GRANDMA\Task1\bin\Debug\Task1.exe
+D:\GRANDMA\Task1\bin\Debug\Task1.pdb
+D:\GRANDMA\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+D:\GRANDMA\Task1\obj\Debug\Task1.exe
+D:\GRANDMA\Task1\obj\Debug\Task1.pdb
